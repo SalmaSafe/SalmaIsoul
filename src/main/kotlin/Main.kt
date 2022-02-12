@@ -11,8 +11,10 @@ fun main() {
     var weightInKg = "46"
     println(weightInKg)
 
-    var areYouKenyan : Boolean = true
-    println(areYouKenyan)
+    var areKenyan : Boolean = true
+    println(areKenyan)
 
+    var areNotKenyan : Boolean = false
+    println(areNotKenyan)
 
 }
